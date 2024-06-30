@@ -1,0 +1,31 @@
+﻿<Window x:Class="CountriesAppWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CountriesAppWPF"
+        mc:Ignorable="d"
+        Title="Continents" Height="300" Width="400">
+    <Window.Resources>
+        <XmlDataProvider x:Key="continentsData" Source="Data.xml" XPath="/Continents/Continent" />
+    </Window.Resources>
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock
+            Text="Choose a continent:"
+            FontSize="20"
+            />
+        <ListBox Name="ContinentListBox"
+                 ItemsSource="{Binding Source={StaticResource continentsData}}"
+                 DisplayMemberPath="@Name"
+                 SelectedItem="{Binding SelectedContinent}"
+                 Grid.Row="1"
+                 FontWeight="Bold"
+                 FontSize="20"
+                 />
+        <Button Content="Open Continent" Click="OpenContinent_Click" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
+    </Grid>
+</Window>

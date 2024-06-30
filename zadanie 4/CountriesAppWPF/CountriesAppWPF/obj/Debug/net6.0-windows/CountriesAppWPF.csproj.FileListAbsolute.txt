@@ -1,0 +1,52 @@
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\bin\Debug\net6.0-windows\Data.xml
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\bin\Debug\net6.0-windows\CountriesAppWPF.exe
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\bin\Debug\net6.0-windows\CountriesAppWPF.deps.json
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\bin\Debug\net6.0-windows\CountriesAppWPF.runtimeconfig.json
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\bin\Debug\net6.0-windows\CountriesAppWPF.dll
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\bin\Debug\net6.0-windows\CountriesAppWPF.pdb
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\ContinentWindow.g.cs
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountryWindow.g.cs
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF_Content.g.cs
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF_MarkupCompile.cache
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF_MarkupCompile.lref
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\ContinentWindow.baml
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountryWindow.baml
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.g.resources
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.AssemblyInfoInputs.cache
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.AssemblyInfo.cs
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.csproj.CoreCompileInputs.cache
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.dll
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\refint\CountriesAppWPF.dll
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.pdb
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.genruntimeconfig.cache
+C:\Users\justy\Desktop\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\ref\CountriesAppWPF.dll
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\bin\Debug\net6.0-windows\Data.xml
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\bin\Debug\net6.0-windows\CountriesAppWPF.exe
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\bin\Debug\net6.0-windows\CountriesAppWPF.deps.json
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\bin\Debug\net6.0-windows\CountriesAppWPF.runtimeconfig.json
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\bin\Debug\net6.0-windows\CountriesAppWPF.dll
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\bin\Debug\net6.0-windows\CountriesAppWPF.pdb
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\ContinentWindow.g.cs
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountryWindow.g.cs
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF_Content.g.cs
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF_MarkupCompile.cache
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF_MarkupCompile.lref
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\ContinentWindow.baml
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountryWindow.baml
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.g.resources
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.AssemblyInfoInputs.cache
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.AssemblyInfo.cs
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.csproj.CoreCompileInputs.cache
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.dll
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\refint\CountriesAppWPF.dll
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.pdb
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\CountriesAppWPF.genruntimeconfig.cache
+C:\Users\justy\Desktop\zadania\zadanie 4\CountriesAppWPF\CountriesAppWPF\obj\Debug\net6.0-windows\ref\CountriesAppWPF.dll

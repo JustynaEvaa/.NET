@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Continents>
+	<Continent Name="Europe">
+		<Description>Various countries in Europe</Description>
+		<Country Name="France">
+			<Capital>Paris</Capital>
+			<Population>67 million</Population>
+			<Cities>
+				<City Name="Paris">
+					<Population>2.1 million</Population>
+					<Attraction>Eiffel Tower</Attraction>
+				</City>
+				<City Name="Lyon">
+					<Population>0.5 million</Population>
+					<Attraction>Basilica of Notre-Dame de Fourvière</Attraction>
+				</City>
+			</Cities>
+		</Country>
+		<Country Name="Germany">
+			<Capital>Berlin</Capital>
+			<Population>83 million</Population>
+			<Cities>
+				<City Name="Berlin">
+					<Population>3.6 million</Population>
+					<Attraction>Brandenburg Gate</Attraction>
+				</City>
+				<City Name="Munich">
+					<Population>1.5 million</Population>
+					<Attraction>Marienplatz</Attraction>
+				</City>
+			</Cities>
+		</Country>
+	</Continent>
+	<Continent Name="Asia">
+		<Description>Various countries in Asia</Description>
+		<Country Name="Japan">
+			<Capital>Tokyo</Capital>
+			<Population>126 million</Population>
+			<Cities>
+				<City Name="Tokyo">
+					<Population>9.3 million</Population>
+					<Attraction>Tokyo Tower</Attraction>
+				</City>
+				<City Name="Kyoto">
+					<Population>1.5 million</Population>
+					<Attraction>Fushimi Inari Shrine</Attraction>
+				</City>
+			</Cities>
+		</Country>
+		<Country Name="China">
+			<Capital>Beijing</Capital>
+			<Population>1.4 billion</Population>
+			<Cities>
+				<City Name="Beijing">
+					<Population>21.5 million</Population>
+					<Attraction>Great Wall</Attraction>
+				</City>
+				<City Name="Shanghai">
+					<Population>24.2 million</Population>
+					<Attraction>The Bund</Attraction>
+				</City>
+			</Cities>
+		</Country>
+	</Continent>
+</Continents>
